@@ -29,3 +29,5 @@ Conjunto de elementos que interactuan entre sí para resolver un problema.
 ## Historia y evolución de los S.O:
 [YouTube](https://www.youtube.com/watch?v=nzo-lRRyWIs)
 
+### Regresar
+:arrow_left: [README](README.md)
