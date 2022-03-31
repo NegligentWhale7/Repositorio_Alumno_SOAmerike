@@ -68,3 +68,6 @@ El siguiente comando es importante para guardar los commits y sus id´s, y así 
 ```
 $ git log > ("nombre del documento").txt
 ```
+
+### Regresar
+:arrow_left: [README](README.md)
